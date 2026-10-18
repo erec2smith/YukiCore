@@ -39,11 +39,19 @@ Exported sites are written to `YokiCore/<project-name>` inside your home folder.
 ```bash
 git clone https://github.com/erec2smith/YukiCore.git
 cd YukiCore
+cd setup
 chmod +x YokiCore-Setup.sh
-./YokiCore-Setup.sh
+./YokiCore-Setup.s
 ```
 
+#OR
 
+```bash
+git clone https://github.com/erec2smith/YukiCore.git
+cd YukiCore
+chmod +x build.sh
+./build.sh
+```
 
 ## Using it
 
