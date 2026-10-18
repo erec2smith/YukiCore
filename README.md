@@ -26,6 +26,25 @@ Linux needs the file to be executable before a file manager will run it: `chmod 
 
 Exported sites are written to `YokiCore/<project-name>` inside your home folder.
 
+
+## How to Download
+
+| OS      | Download |
+|---------|----------|
+| Windows | [`YokiCore-Setup.bat`](YOUR_WINDOWS_LINK) |
+| macOS   | [`YokiCore-Setup.command`](YOUR_MACOS_LINK) |
+| Linux   | Run the following command: |
+
+**Linux**
+```bash
+git clone https://github.com/erec2smith/YukiCore.git
+cd YukiCore
+chmod +x YokiCore-Setup.sh
+./YokiCore-Setup.sh
+```
+
+
+
 ## Using it
 
 ![Layers and events](docs/img/layers.png)
